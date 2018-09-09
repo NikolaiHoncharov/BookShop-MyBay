@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f51a7b2c6a7f4730b79da3218d43f152" Name="Diagram1">
+        <EntityTypeShape EntityType="BookShopModel.Authors" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookShopModel.Books" Width="1.5" PointX="3" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookShopModel.Sales" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookShopModel.Seller" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookShopModel.Shop" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <AssociationConnector Association="BookShopModel.FK__Books__AuthorsID__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="BookShopModel.FK__Sales__BooksID__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="BookShopModel.FK__Shop__BooksID__3C69FB99" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="BookShopModel.sysdiagrams" Width="1.5" PointX="7.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

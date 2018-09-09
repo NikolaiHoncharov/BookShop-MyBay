@@ -1,0 +1,66 @@
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\BookShop.exe.config
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\BookShop.exe
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\BookShop.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.exe
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.login.resources
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\EntityFramework.dll
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\EntityFramework.xml
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nikc\documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.frmMain.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Forms.MainControl.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Forms.ControlCatalog.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Forms.ControlNewsBooks.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Forms.ControlSale.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Forms.ControlChangeBook.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.Forms.ControlAddBook.resources
+C:\Users\Nikc\Documents\Visual Studio 2015\Projects\BookShop\BookShop\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.exe
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.pdb
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\BookShop.exe
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.dll
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.xml
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlAddBook.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlChangeBook.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlSale.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlNewsBooks.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlCatalog.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Form1.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.frmMain.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.login.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.MainControl.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+C:\Users\Nikc\Desktop\Book Shop MyBay\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\BookShop.exe.config
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.exe
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.pdb
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\BookShop.exe
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\BookShop.pdb
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.dll
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.xml
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlAddBook.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlChangeBook.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlSale.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlNewsBooks.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.ControlCatalog.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Form1.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.frmMain.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.login.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Forms.MainControl.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+D:\Николай\Рабочая\ШАГ\ЭКЗАМЕНЫ С#\Book Shop MyBay\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
